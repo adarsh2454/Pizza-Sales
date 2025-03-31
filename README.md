@@ -6,11 +6,6 @@ The raw data for this project is presented in 4 CSV files. This data represents 
 
 The project is done in Microsoft SQL server and presented in Power BI. The data was loaded into 4 tables. This project involves the use of simple joins and sub-queries. 
 
-## Data source:
-You can download the data from https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales
-
-A zip file is also included in this repository.
-
 ## Data Analysis
 This project was done on SQL server 2022
 
